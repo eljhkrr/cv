@@ -52,7 +52,7 @@ h2, h3 {
 }
 .section-right {
 	#width: 80%;
-	border-left: 1px solid #ddd;
+	
 
 	padding-left: 50px;
 }
@@ -103,4 +103,10 @@ h3 {
 
 .profile {
 	text-align: justify;
+}
+
+@media only screen and (min-width: 1000px) {
+	.section-right {
+		border-left: 1px solid #ddd;
+	}
 }
