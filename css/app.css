@@ -3,7 +3,7 @@ body {
 	line-height: 2em;
 	#color: #484848;
 	#background-color: rgba(204, 228, 210, 0.1);
-	#background-color: #d8daec;
+	background-color: #fcfcfc;
 	font-size: 16px;
 }
 
@@ -65,7 +65,7 @@ h2, h3 {
 .thumbnail{
 	padding: 20px;
 	border-radius: 0;
-	#background-color: #fcfcfc;
+	background-color: #fdffff;
 }
 .thumbnail h4 {
 	margin: 0;
