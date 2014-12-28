@@ -93,8 +93,9 @@ section {
 }
 
 h3 {
-	font-family: roboto-thin;
+	#font-family: roboto-thin;
 	margin-bottom: 0;
+	color: rgba(68, 68, 68, 0.43)
 }
 @font-face {
 	font-family: roboto-thin;
